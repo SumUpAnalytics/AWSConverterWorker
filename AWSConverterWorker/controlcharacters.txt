@@ -1,0 +1,26 @@
+﻿end of line sequences
+Windows end of line sequence:  \r\n = 0d0a
+Unix end of line sequence:     \n
+Mac end of line sequence:      \r
+ascii codes and their escape sequences
+ASCII Name   Description     C Escape Sequence
+----------------------------------------------
+nul          null byte       \0 (zero)
+bel          bel character   \a
+bs           backspace       \b
+ht           horizontal tab  \t
+np           formfeed        \f
+nl           newline         \n
+cr           carriage return \r
+common ascii codes to know
+Char  Dec  Oct  Hex   WhatAreThey
+---------------------------------------
+(nul)   0 0000 0x00   Null 
+(ht)    9 0011 0x09   Horizontal Tab
+(nl)   10 0012 0x0a   New Line
+(vt)   11 0013 0x0b   Vertical Tab
+(cr)   13 0015 0x0d   Carriage Return
+(sp)   32 0040 0x20   Space
+0      48 0060 0x30   zero
+A      65 0101 0x41   capital A
+a      97 0141 0x61   lowercase a
